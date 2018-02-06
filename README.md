@@ -1,4 +1,4 @@
-# Unsplash Gallery
+# Gallery
 
 A image gallery like [Unsplash](https://unsplash.com) built in React, using Unsplash API.
 
@@ -9,3 +9,5 @@ A image gallery like [Unsplash](https://unsplash.com) built in React, using Unsp
 - Lazy Loading
 - Multiple layout, Bar and Grid
 - Click to zoom-in
+
+[Live Demo](http://danwebdeveloper.com/dist/)
